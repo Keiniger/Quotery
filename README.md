@@ -1,8 +1,8 @@
-# 🗨 [Quotery]() [![Netlify Status](https://api.netlify.com/api/v1/badges/150e458a-6711-4f44-a8d7-31b084f83ac0/deploy-status)](https://app.netlify.com/sites/foodies-delivery/deploys)
+# 🗨 [Quotery](https://quotery.netlify.app/)) [![Netlify Status](https://api.netlify.com/api/v1/badges/4448e4e2-b502-4aed-8966-eacfb7465a97/deploy-status)](https://app.netlify.com/sites/quotery/deploys)
 
 The website where great quotes gather.
 
-URL: [https://foodies-delivery.netlify.app/](https://foodies-delivery.netlify.app/)
+URL: [https://quotery.netlify.app/](https://quotery.netlify.app/)
 
 ![App image](./Quotery.png)
 
